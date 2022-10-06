@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QIthruster
 - 👀 I’m interested in projects on the quantized inertia (QI) and its applications
-- 🌱 I’m currently learning high-voltage instrumentation
+- 🌱 I’m currently learning high-voltage instrumentation and lab automation
 - 💞️ I’m looking to collaborate on any aspects of QI
 - 📫 How to reach me mike.mcculloch@plymouth.ac.uk (Dr. Mike McCulloch)
 
