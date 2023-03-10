@@ -2,7 +2,7 @@
 - 👀 I’m interested in projects on the quantized inertia (QI) and its applications
 - 🌱 I’m currently learning high-voltage instrumentation and lab automation
 - 💞️ I’m looking to collaborate on any aspects of QI
-- 📫 How to reach me: qi.thruster@gmail.com
+- 📫 How to reach me: dyk.development@gmail.com and www.dykteam.com
 
 <!---
 QIthruster/QIthruster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
